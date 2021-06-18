@@ -4,7 +4,6 @@
     require_once "controllers/indexController.php";
     require_once "controllers/alojamientoController.php";
     require_once "controllers/atractivoController.php";
-    require_once "controllers/paquetesController.php";
     require_once "controllers/vehiculosController.php";
 
     if(isset($_GET['c'])){

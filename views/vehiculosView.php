@@ -2,7 +2,10 @@
 include_once 'views/header.php';
 ?>
 <header class="masthead">
-    <div class="container d-flex h-100 align-items-center mx-auto">
+    <div class="container">
+        <div style="text-align: center;">
+            <h3>Vehículos</h3>
+        </div>
         <?php
             include_once 'views/barraVehiculosView.php';
         ?>

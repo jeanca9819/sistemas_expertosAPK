@@ -39,12 +39,14 @@ $criterios = [
 ?>
 
 <body>
-
 <header class="masthead">
-    <div class="container d-flex h-100 align-items-center mx-auto">
-        <?php
-            include_once 'views/barraCriterios.php';
-        ?>
+    <div class="container">
+        <div style="text-align: center;">
+            <h3>Atractivos</h3>
+        </div>
+            <?php
+                include_once 'views/barraCriterios.php';
+            ?>
     </div>
 </header>
 <br>
