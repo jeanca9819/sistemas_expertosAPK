@@ -91,7 +91,7 @@ $criterios = [
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img style="max-width: 350px;" class="card-img-top card-image" alt="Responsive image"
-                                src="http://hablemosdeislas.com/wp-content/uploads/2018/07/isla-del-coco-7-e1530912069771.jpg">
+                                src="https://adondeircr.com/wp-content/uploads/2020/10/isla-del-coco-aerea.jpg">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
